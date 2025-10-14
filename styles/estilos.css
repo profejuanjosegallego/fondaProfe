@@ -23,3 +23,10 @@
     background-attachment: fixed;
     padding: 25%;
 }
+
+.btn.btn-primary{
+    background-color: #40828a;
+    border-color:#40828a;
+    color:white;
+}
+
